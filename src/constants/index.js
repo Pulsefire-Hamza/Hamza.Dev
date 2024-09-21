@@ -36,35 +36,35 @@ export const PROJECTS = [
     title: "Software Companay Website",
     image: "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-1c12e.appspot.com/o/pro2.png?alt=media&token=543d0ce5-d4d5-410d-8153-edf3d35c29f2",
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      " Designed and developed a user-friendly website for Ruya Solutions, enhancing their online presence and improving customer engagement.",
     technologies: ["React", "Tailwend Css", "Js", "Firebase"],
   },
   {
     title: "Resturent Website",
     image: "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-1c12e.appspot.com/o/pro5.png?alt=media&token=7b06497b-6327-442c-89b3-cad6ce412c16",
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "Created an inviting and responsive website for Burger Boys, showcasing their menu and atmosphere to attract more diners and streamline online reservations.",
     technologies: ["HTML", "CSS", "Java", ],
   },
   {
     title: "Order Menu Fast Food",
     image: "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-1c12e.appspot.com/o/pro3.png?alt=media&token=d955c3bc-8a95-4003-b647-016d1c55af52",
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Developed a dynamic online ordering menu for Burger Boys, enabling customers to quickly browse and place orders for a seamless dining experience.",
     technologies: ["HTML", "CSS", "Java"],
   },
   {
     title: "Real E-State Website",
     image: "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-1c12e.appspot.com/o/pro4.png?alt=media&token=592aefdc-155c-4a5c-b6e7-c85268bd0eb7",
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Designed an interactive real estate website for Awan Property, featuring property listings and advanced search tools to enhance user experience and facilitate property transactions",
     technologies: ["React", "CSS", "Vue.js", ],
   },
   {
     title: "Shoes Website",
     image: "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-1c12e.appspot.com/o/pro6.png?alt=media&token=864633e8-32b8-4513-acbe-7159e97512d6",
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Built a visually appealing e-commerce website for ShoePalace, showcasing their collections and enabling a seamless shopping experience for customers",
     technologies: ["React" ,"Css","Firebase"  ],
   },
 ];
